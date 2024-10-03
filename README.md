@@ -1,8 +1,7 @@
-Hello, my name is . Growing up, I spent countless hours tinkering with my computer and playing games, but never learned about the internals of what was happening behind. 
+Hello, my name is Hau. Growing up, I spent countless hours tinkering with my computer and playing games, but I never really cared about what was happening behind the scenes—at least not at first. It was all about the experience and fun for me. However, as I got older, I started to develop more curiosity about how things worked, especially when it came to technology. On the flip side, I’ve always had a passion for travel, which sparked my deep interest in aviation. There’s something incredible about the way planes work, and I’ve always been fascinated by the combination of engineering and exploration.
 
 
-
-As a kid and even to today, I love traveling and that's how I got an interest in aviation. Before college, I was deciding between aviation school, maybe through the air force, and a bachelor's in computer
-
+Before college, I found myself at a crossroads, trying to decide between attending aviation school, possibly through the Air Force, or pursuing a bachelor's degree in computer science. After weighing my options, I ultimately chose the bachelor's degree because it felt like a safer and more flexible choice for the long run. That’s not to say my love for aviation has disappeared; in fact, it's still very much alive. There’s a part of me that’s still considering going back to explore that path more deeply, and maybe combining my tech skills with my passion for flight one day.
 
 
+For now, though, I’m focused on developing my expertise in computer science, especially in areas like machine learning, wearable technology, specifically augmented reality, and figuring out how I can apply that in the real world, maybe even in the aviation industry.
