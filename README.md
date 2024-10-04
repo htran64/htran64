@@ -3,4 +3,4 @@ Hello, my name is . Growing up, I spent countless hours tinkering with my comput
 
   Before college, I found myself at a crossroads, trying to decide between attending aviation school, possibly through the Air Force, or pursuing a bachelor's degree in computer science. After weighing my options, I ultimately chose the bachelor's degree because it felt like a safer and more flexible choice for the long run. That’s not to say my love for aviation and traveling has disappeared, in fact, it's still very much alive. There’s a part of me that’s still considering going back to explore that path more deeply, and maybe combining my tech skills with my passion for flight one day. 
 
-  //FOCUS ON LIVING A BALANCED LIFE IN COLLEGE AND EARLY 20s
+Currently, I’ve been interested in machine learning, augmented reality, and wearable techs. While academics are important, I’ve learned that there’s so much more to personal growth than just coursework. Building relationships, understanding people, and experiencing life beyond the classroom are essential and what has made college worth it for me. 
